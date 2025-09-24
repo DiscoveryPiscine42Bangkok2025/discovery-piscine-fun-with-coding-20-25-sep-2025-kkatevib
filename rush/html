@@ -1,0 +1,47 @@
+<h1 class="about-title">rush projeck</h1>
+
+<div class="carousel-container">
+	<button class="nav-arrow left">‹</button>
+	<div class="carousel-track">
+		<div class="card" data-index="0">
+			<img src="https://media.discordapp.net/attachments/1419603362604650526/1420277311474896956/IMG_7985.jpg?ex=68d4cfd2&is=68d37e52&hm=9cf4a3b173bad8ff502589f771e4e148ca5d4103981000ccd014ed5f3ad39513&=&format=webp&width=1535&height=1662" alt="Team Member 1">
+		</div>
+		<div class="card" data-index="1">
+			<img src="https://media.discordapp.net/attachments/1419603362604650526/1420277311940460627/IMG_7958.jpg?ex=68d4cfd2&is=68d37e52&hm=08a0f9c2ee734eb77c700a9cc55545c29545d2e402ec7edb5c2c54104d0f6575&=&format=webp&width=1290&height=1721" alt="Team Member 2">
+			<a href="page2.html"> <!--About-->
+		</div>
+		<div class="card" data-index="2">
+			<img src="https://media.discordapp.net/attachments/1419603362604650526/1420277311474896956/IMG_7985.jpg?ex=68d4cfd2&is=68d37e52&hm=9cf4a3b173bad8ff502589f771e4e148ca5d4103981000ccd014ed5f3ad39513&=&format=webp&width=1535&height=1662" alt="Team Member 3">
+			<a href="page2.html"> <!--About-->
+		</div>
+		<div class="card" data-index="3">
+			<img src="https://media.discordapp.net/attachments/1419603362604650526/1420277311940460627/IMG_7958.jpg?ex=68d4cfd2&is=68d37e52&hm=08a0f9c2ee734eb77c700a9cc55545c29545d2e402ec7edb5c2c54104d0f6575&=&format=webp&width=1290&height=1721" alt="Team Member 4">
+			<a href="page2.html"> <!--About-->
+		</div>
+		<div class="card" data-index="4">
+			<img src="https://media.discordapp.net/attachments/1419603362604650526/1420277311474896956/IMG_7985.jpg?ex=68d4cfd2&is=68d37e52&hm=9cf4a3b173bad8ff502589f771e4e148ca5d4103981000ccd014ed5f3ad39513&=&format=webp&width=1535&height=1662" alt="Team Member 5">
+			<a href="page2.html"> <!--About-->
+		</div>
+		<div class="card" data-index="5">
+			<img src="https://media.discordapp.net/attachments/1419603362604650526/1420277311940460627/IMG_7958.jpg?ex=68d4cfd2&is=68d37e52&hm=08a0f9c2ee734eb77c700a9cc55545c29545d2e402ec7edb5c2c54104d0f6575&=&format=webp&width=1290&height=1721" alt="Team Member 6">
+			<a href="page2.html"> <!--About-->
+		</div>
+	</div>
+	<button class="nav-arrow right">›</button>
+</div>
+
+<div class="member-info">
+	<h2 class="member-name">sirunda</h2>
+	<p class="member-role">manager</p>
+</div>
+
+<div class="dots">
+	<div class="dot active" data-index="0"></div>
+	<div class="dot" data-index="1"></div>
+	<div class="dot" data-index="2"></div>
+	<div class="dot" data-index="3"></div>
+	<div class="dot" data-index="4"></div>
+	<div class="dot" data-index="5"></div>
+<!--About-->
+	<section class="image-bg-fluid-height" id="portfolio">
+  
